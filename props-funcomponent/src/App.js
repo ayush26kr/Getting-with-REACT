@@ -5,8 +5,8 @@ import Parent from './Parent'
 function App() {
   return (
     <div className="App">
-      <h1>This is a react app</h1>
-      <Parent/>
+    <h1>This is new application</h1>
+    <Parent/>
     </div>
   );
 }
